@@ -1,6 +1,3 @@
-=========================================
-  APPLICATION : floors Project Overview
-=========================================
 
 HOW TO RUN:
 
@@ -10,4 +7,4 @@ The thousands(the first left digit) shows the number of floors, hundreds & tens 
 If ones is 0, it means there is no car in that parking spot.
 If ones is over 0, it means there is a car in that parking spot.
 
-For continuing you should press any number and for exit you should pree 0.
+To continiue, you should press any number and for exit you should press 0.
